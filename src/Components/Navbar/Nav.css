@@ -1,0 +1,19 @@
+.nav{
+    width: 100vw;
+    height: 10vh;
+    background-color: #044644;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: voyage;
+    letter-spacing: 3px;
+}
+p{
+    letter-spacing: 7px;
+    word-spacing: 5px;
+    font-family: gilroy;
+    font-size: 2vmin;
+    line-height: 4vmin;
+}
